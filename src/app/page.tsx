@@ -57,7 +57,7 @@ export default function LandingPage() {
       title="Hot & Spicy Puff & More"
       description="Authentic flavors and crispy delights crafted with love. Discover our signature menu of hand-baked puffs, sandwiches, and combo deals."
       tag="Since 2015"
-      imageSrc="https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3C0qGlTRSeqyPd4LClB7rJ7iZS9/uploaded-1775532822101-b8au01q5.jpg"
+      imageSrc="https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3C0qGlTRSeqyPd4LClB7rJ7iZS9/uploaded-1775532822101-b8au01q5.jpg?_wi=1"
       imageAlt="Signature puff pastry assortment"
       buttons={[
         {
@@ -84,42 +84,42 @@ export default function LandingPage() {
           name: "Classic Veg Puff",
           price: "₹30",
           variant: "Signature",
-          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3C0qGlTRSeqyPd4LClB7rJ7iZS9/uploaded-1775532822101-b8au01q5.jpg",
+          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3C0qGlTRSeqyPd4LClB7rJ7iZS9/uploaded-1775532822101-b8au01q5.jpg?_wi=2",
         },
         {
           id: "2",
           name: "Paneer Makhni Puff",
           price: "₹100",
           variant: "Premium",
-          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3C0qGlTRSeqyPd4LClB7rJ7iZS9/uploaded-1775532822101-b8au01q5.jpg",
+          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3C0qGlTRSeqyPd4LClB7rJ7iZS9/uploaded-1775532822101-b8au01q5.jpg?_wi=3",
         },
         {
           id: "3",
           name: "Cheese Burst Puff",
           price: "₹100",
           variant: "Popular",
-          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3C0qGlTRSeqyPd4LClB7rJ7iZS9/uploaded-1775532822101-b8au01q5.jpg",
+          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3C0qGlTRSeqyPd4LClB7rJ7iZS9/uploaded-1775532822101-b8au01q5.jpg?_wi=4",
         },
         {
           id: "4",
           name: "Paneer Kadhai Sandwich",
           price: "₹150",
           variant: "Hot & Spicy",
-          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3C0qGlTRSeqyPd4LClB7rJ7iZS9/uploaded-1775532822101-b8au01q5.jpg",
+          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3C0qGlTRSeqyPd4LClB7rJ7iZS9/uploaded-1775532822101-b8au01q5.jpg?_wi=5",
         },
         {
           id: "5",
           name: "Express Combo",
           price: "₹99",
           variant: "Steal Deal",
-          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3C0qGlTRSeqyPd4LClB7rJ7iZS9/uploaded-1775532822101-b8au01q5.jpg",
+          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3C0qGlTRSeqyPd4LClB7rJ7iZS9/uploaded-1775532822101-b8au01q5.jpg?_wi=6",
         },
         {
           id: "6",
           name: "Family Combo",
           price: "₹399",
           variant: "Steal Deal",
-          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3C0qGlTRSeqyPd4LClB7rJ7iZS9/uploaded-1775532822101-b8au01q5.jpg",
+          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3C0qGlTRSeqyPd4LClB7rJ7iZS9/uploaded-1775532822101-b8au01q5.jpg?_wi=7",
         },
       ]}
       title="Our Signature Menu"
@@ -173,7 +173,7 @@ export default function LandingPage() {
           category: "Behind the Scenes",
           title: "The Art of the Perfect Puff",
           excerpt: "What makes our pastry so flaky and crispy? Learn about our hand-folding technique.",
-          imageSrc: "http://img.b2bpic.net/free-photo/close-up-cinnamon-rolls-table_23-2148604544.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/close-up-cinnamon-rolls-table_23-2148604544.jpg?_wi=1",
           authorName: "Chef Rahul",
           authorAvatar: "http://img.b2bpic.net/free-photo/close-up-smiley-woman-man-restaurant_23-2148899031.jpg",
           date: "Oct 12, 2024",
@@ -183,7 +183,7 @@ export default function LandingPage() {
           category: "Menu Highlights",
           title: "Why Cheese Burst is a Hit",
           excerpt: "Explore the secret ingredients behind our best-selling menu item.",
-          imageSrc: "http://img.b2bpic.net/free-photo/close-up-cinnamon-rolls-table_23-2148604544.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/close-up-cinnamon-rolls-table_23-2148604544.jpg?_wi=2",
           authorName: "Marketing Team",
           authorAvatar: "http://img.b2bpic.net/free-photo/woman-with-slice-watermelon_329181-20379.jpg",
           date: "Sep 30, 2024",
